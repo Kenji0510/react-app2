@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <h1>Hello !!</h1>
+        <img src='https://some-anyone-data.s3.ap-northeast-3.amazonaws.com/public_image/fig03.jpeg' alt='image' />
       </header>
     </div>
   );
